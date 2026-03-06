@@ -1,7 +1,4 @@
 Hi, I’m Alex.<br />
-I like to learn new things and I like to create useful programs.<br />
-I’m currently learning Rust.<br />
-I’m looking to collaborate on any interesting project.<br />
 How to reach me: alexeybar7@gmail.com.
 
 <!---
